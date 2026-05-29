@@ -2,7 +2,7 @@
 
 # E-Commerce de Ropa
 
-Este proyecto es una aplicación web de e-commerce desarrollada en **PHP con CodeIgniter**, diseñada para la venta de ropa. Incluye funcionalidades tanto para usuarios como para administradores, ofreciendo una experiencia completa de compra, gestión y personalización.
+Este proyecto es una aplicación web de e-commerce desarrollada en **PHP con CodeIgniter**
 
 ## Características principales
 
